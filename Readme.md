@@ -4,7 +4,7 @@
 This Chrome extension automatically fills common job application fields such as name, email, phone number, and skills with a single click.
 
 ## video-
-<video controls src="Assingment.mp4" title="Assingment"></video>
+https://youtu.be/zcqIADFa4j4
 
 ## Tech Stack
 - JavaScript (ES6+)
